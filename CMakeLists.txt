@@ -66,6 +66,7 @@ add_library(
     # Sources
     src/__lock.c
     src/__timedwait.c
+    src/__wait.c
     src/sem_destroy.c
     src/sem_getvalue.c
     src/sem_init.c
